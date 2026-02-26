@@ -3,32 +3,31 @@
 Advanced Geometry Export & Mapping Tools for Call of Duty Radiant
 Mesh2Map is a custom build of **Blender 5.0.1** designed for level designers working with **Call of Duty Radiant**. It provides a modern workflow for creating, preparing, and exporting geometry directly into Radiant’s **.map** format, supported by a suite of tools built specifically for mapping, terrain work, prefabs, and entity setup.
 </div>
-## 🚀 Features
 
-### 🔸 Geometry Export
+🔸 Geometry Export
 - Export Blender meshes directly to **Radiant .map** format  
 - Clean brush output for blockouts, clipping, terrain, and structural geometry  
 - Fast iteration with Radiant‑safe geometry generation  
 
-### 🔸 Mapping Tools
+🔸 Mapping Tools
 - **Model Library Window** with preview, rotation, and asset metadata  
 - **Prefab Browser** for reusable structures and map components  
 - **KVP Editor** for entity keys/values and scripting setup  
 - **Brush & Entity Utilities** for preparing Radiant‑ready geometry  
 
-### 🔸 Terrain Tools
+🔸 Terrain Tools
 - Erosion helpers for natural terrain shaping  
 - Error detection and cleanup for Radiant compatibility  
 - High‑detail mesh workflows adapted for map export  
 
-### 🔸 UI & Workflow Enhancements
+🔸 UI & Workflow Enhancements
 - New windows and panels built specifically for mappers  
 - Streamlined layout for blockouts, terrain, and worldbuilding  
 - Designed to feel native to Blender while extending its capabilities  
 
 ---
 
-## 📸 Screenshots
+📸 Screenshots
 
 > Add your images inside `docs/media/` and update the paths below.
 
@@ -38,7 +37,7 @@ Mesh2Map is a custom build of **Blender 5.0.1** designed for level designers wor
 
 ---
 
-## 📥 Installation
+📥 Installation
 
 1. Download the latest release from the **Releases** page  
 2. Extract and run the custom Blender build  
@@ -47,17 +46,15 @@ Mesh2Map is a custom build of **Blender 5.0.1** designed for level designers wor
 
 ---
 
-## 🗺️ Roadmap
-
-- Live link preview  
+🗺️ Roadmap 
 - Advanced terrain erosion & noise layers  
 - Prefab tagging and search  
 - Entity templates  
-- Radiant material preview support  
+-  material preview & libary support
 
 ---
 
-## 📚 Documentation
+📚 Documentation
 
 Full documentation is available in the `docs/` folder.
 
