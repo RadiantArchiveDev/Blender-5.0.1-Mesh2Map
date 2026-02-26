@@ -2,6 +2,7 @@
 
 <div align="center"> <h3>Advanced Geometry Export & Mapping Tools for Call of Duty Radiant</h3> Mesh2Map is a custom build of <strong>Blender 5.0.1</strong> designed for level designers working with <strong>Call of Duty Radiant</strong>.<br> It provides a modern workflow for creating, preparing, and exporting geometry directly into Radiant’s <strong>.map</strong> format, supported by a suite of tools built specifically for mapping, terrain work, prefabs, and entity setup. </div>
 
+---
 
 🔸 Geometry Export
 - Export Blender meshes directly to **Radiant .map** format  
