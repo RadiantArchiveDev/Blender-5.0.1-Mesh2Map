@@ -28,9 +28,6 @@
 ---
 
 📸 Screenshots
-
-> Add your images inside `docs/media/` and update the paths below.
-
 ![Model Library](docs/media/model_library.png)  
 ![Terrain Tools](docs/media/terrain_tools.png)  
 ![Export Panel](docs/media/export_panel.png)
