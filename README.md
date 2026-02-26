@@ -65,7 +65,7 @@ Full documentation is available in the `docs/` folder.
 
 ## 🔗 Links
 
-- **Website:** https://yourwebsitehere  
+- **Website:** (https://www.radiantarchive.dev)  
 - **Documentation:** /docs  
 - **Issue Tracker:** /issues  
 - **Discord:** your invite link  
